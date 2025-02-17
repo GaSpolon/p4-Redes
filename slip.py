@@ -1,6 +1,7 @@
 class CamadaEnlace:
     ignore_checksum = False
 
+    #teste
     def __init__(self, linhas_seriais):
         self.enlaces = {}
         self.callback = None
